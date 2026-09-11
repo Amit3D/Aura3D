@@ -1,0 +1,9 @@
+2026-09-11 08:45:22.548: [INFO] CurrentProfilePath: C:\Users\Amits\Desktop\AURA\first app.exe.WebView2\EBWebView\Default
+2026-09-11 08:45:22.548: [INFO] Profiles total count: 1
+2026-09-11 08:45:22.548: [INFO] Profile: name=Profile 1 path=C:\Users\Amits\Desktop\AURA\first app.exe.WebView2\EBWebView\Default lastActive=null
+2026-09-11 08:45:22.548: [INFO] LastUsedProfileDir: C:\Users\Amits\Desktop\AURA\first app.exe.WebView2\EBWebView\Default
+2026-09-11 08:45:22.548: [INFO] OnDoneLoading sync enabled: 0
+2026-09-11 08:45:22.548: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-09-11 08:45:22.548: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-09-11 08:45:22.548: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-09-11 08:45:51.746: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
