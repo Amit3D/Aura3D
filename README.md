@@ -1,5 +1,6 @@
 \# 🎮 Learning Game – WinUI, XAML \& C#
 
+<img width="1919" height="1031" alt="Screenshot 2026-09-11 153300" src="https://github.com/user-attachments/assets/1621f05b-d5cf-46c5-81a9-e87a08a9679f" />
 
 
 A simple game project created \*\*for learning and experimentation purposes\*\* using \*\*Visual Studio\*\*, \*\*WinUI\*\*, \*\*XAML\*\*, and \*\*C#\*\*.
